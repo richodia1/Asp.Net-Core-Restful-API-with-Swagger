@@ -1,0 +1,16 @@
+c:\Projects\LogicXPro\LogicXPro\bin\Debug\netcoreapp2.0\LogicXPro.deps.json
+c:\Projects\LogicXPro\LogicXPro\bin\Debug\netcoreapp2.0\LogicXPro.runtimeconfig.json
+c:\Projects\LogicXPro\LogicXPro\bin\Debug\netcoreapp2.0\LogicXPro.runtimeconfig.dev.json
+c:\Projects\LogicXPro\LogicXPro\bin\Debug\netcoreapp2.0\LogicXPro.dll
+c:\Projects\LogicXPro\LogicXPro\bin\Debug\netcoreapp2.0\LogicXPro.pdb
+c:\Projects\LogicXPro\LogicXPro\obj\Debug\netcoreapp2.0\LogicXPro.csprojAssemblyReference.cache
+c:\Projects\LogicXPro\LogicXPro\obj\Debug\netcoreapp2.0\LogicXPro.csproj.CoreCompileInputs.cache
+c:\Projects\LogicXPro\LogicXPro\obj\Debug\netcoreapp2.0\LogicXPro.AssemblyInfoInputs.cache
+c:\Projects\LogicXPro\LogicXPro\obj\Debug\netcoreapp2.0\LogicXPro.AssemblyInfo.cs
+c:\Projects\LogicXPro\LogicXPro\obj\Debug\netcoreapp2.0\LogicXPro.dll
+c:\Projects\LogicXPro\LogicXPro\obj\Debug\netcoreapp2.0\LogicXPro.pdb
+c:\Projects\LogicXPro\LogicXPro\bin\Debug\netcoreapp2.0\LogicXPro.Domain.dll
+c:\Projects\LogicXPro\LogicXPro\bin\Debug\netcoreapp2.0\LogicXPro.Infrastructure.dll
+c:\Projects\LogicXPro\LogicXPro\bin\Debug\netcoreapp2.0\LogicXPro.Domain.pdb
+c:\Projects\LogicXPro\LogicXPro\bin\Debug\netcoreapp2.0\LogicXPro.Infrastructure.pdb
+c:\Projects\LogicXPro\LogicXPro\obj\Debug\netcoreapp2.0\LogicXPro.csproj.CopyComplete
